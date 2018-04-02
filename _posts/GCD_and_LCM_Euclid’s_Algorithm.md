@@ -41,13 +41,3 @@ the least common multiple, lowest common multiple, or smallest common multiple o
 ---
 
 ![LCM](/assets/img/LCM.jpg)
-
-Örnek Bir Assembly Kodu
----
-C dilinde yazılmış `f = (a+b)+(c+d)` işlemini assembly ile yazalım.
-(Değişkenler sırasıyla s0,s1,s2,s3,s4 registerlarına getirilmiştir.)
-{% highlight ca65 %}
-add $t0, $s1, $s2
-add $t1, $s3, $s4
-add $s0, $t0, $t1
-{% endhighlight %}
