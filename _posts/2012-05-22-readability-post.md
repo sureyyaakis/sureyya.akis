@@ -7,10 +7,17 @@ tags: [sample post, readability, test]
 ---
 **GCD and LCM Euclid’s Algorithm**
 ===
-When somebody ask what is gcd(36, 60) OR lcm(4, 6)  and you want to answer but you don’t know keep reading to this article.**WHAT IS GCD**  
+When somebody ask what is gcd(36, 60) OR lcm(4, 6)  and you want to answer but you don’t know keep reading to this article.
+**WHAT IS GCD**  
 The Greatest Common Divisor is moreover known as the greatest common factor (gcf), highest common factor (hcf), greatest common measure (gcm), or highest common divisor, I chose to say GCD.  GCD is the largest number that divides the given numbers. The easy way to find GCD is to factorize both numbers and multiple common factors.
-**RISC** yapısından dolayı tasarımı basittir. Çoğu modern mikroişlemci mimarisi (IBM/Motorola PowerPC, DEC, ARM) Mips mimarisinden esinlenilerek yapılmıştır.
-Günümüz itibarıyla **Nintendo 64**, **Sony PlayStation**, **Sony PlayStation 2** ve **Sony PSP** MIPS mimarisi ile çalışan işlemcilere sahiptirler.
+
+{% highlight html %}
+<figure class="half">
+    <a href="/images/image-filename-1-large.jpg"><img src="/images/image-filename-1.jpg"></a>
+    <a href="/images/image-filename-2-large.jpg"><img src="/images/image-filename-2.jpg"></a>
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
+{% endhighlight %}
 
 Register'lar Neden Var
 ---
