@@ -14,6 +14,8 @@ The Greatest Common Divisor is moreover known as the greatest common factor (gcf
 
 ![GCD](/assets/img/GCD.jpg)
 
+There is a example for python 3.6
+
 ```python
 def gcd(x, y):
     gcd = 1
