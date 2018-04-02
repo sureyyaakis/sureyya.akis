@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "MIPS Nedir"
-date: 2012-05-22
+title: "GCD and LCM Euclid’s Algorithm"
+date: 4/2/2018
 excerpt: "Mips ve assembly kodları giriş."
 tags: [sample post, readability, test]
 ---
-**Mips Nedir ?**
+**GCD and LCM Euclid’s Algorithm**
 ===
-MIPS **İndirgenmiş Komut Kümesi** türü bir mikroişlemci mimarisidir. MIPS Teknolojileri adlı firma tarafından üretilmiştir. Her komut aynı boydadır. Bu da komutların bilgisayar donanımı tarafından kolay çözülmesini sağlar.
+When somebody ask what is gcd(36, 60) OR lcm(4, 6)  and you want to answer but you don’t know keep reading to this article.**WHAT IS GCD**  
+The Greatest Common Divisor is moreover known as the greatest common factor (gcf), highest common factor (hcf), greatest common measure (gcm), or highest common divisor, I chose to say GCD.  GCD is the largest number that divides the given numbers. The easy way to find GCD is to factorize both numbers and multiple common factors.
 **RISC** yapısından dolayı tasarımı basittir. Çoğu modern mikroişlemci mimarisi (IBM/Motorola PowerPC, DEC, ARM) Mips mimarisinden esinlenilerek yapılmıştır.
 Günümüz itibarıyla **Nintendo 64**, **Sony PlayStation**, **Sony PlayStation 2** ve **Sony PSP** MIPS mimarisi ile çalışan işlemcilere sahiptirler.
 
