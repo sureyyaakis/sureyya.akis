@@ -1,5 +1,5 @@
 # Site
-title:          JBlog
+title:          Sureyya B Akis
 bio:            'Just a simple Jekyll theme'
 description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
 picture:        'assets/img/profile.png'
@@ -56,7 +56,7 @@ youtube: username
 
 
 # Comments
-disqus_shortname: alperenbozkurt-net
+disqus_shortname: #alperenbozkurt-net
 
 
 # Gems
