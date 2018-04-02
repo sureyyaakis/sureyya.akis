@@ -11,13 +11,22 @@ When somebody ask what is gcd(36, 60) OR lcm(4, 6)  and you want to answer but y
 **WHAT IS GCD**  
 The Greatest Common Divisor is moreover known as the greatest common factor (gcf), highest common factor (hcf), greatest common measure (gcm), or highest common divisor, I chose to say GCD.  GCD is the largest number that divides the given numbers. The easy way to find GCD is to factorize both numbers and multiple common factors.
 
-{% highlight html %}
-<figure class="half">
-    <a href="/images/image-filename-1-large.jpg"><img src="/images/image-filename-1.jpg"></a>
-    <a href="/images/image-filename-2-large.jpg"><img src="/images/image-filename-2.jpg"></a>
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
-{% endhighlight %}
+```python
+def gcd(x, y):
+    gcd = 1
+    
+    if x % y == 0:
+        return y
+    
+    for k in range(int(y / 2), 0, -1): 
+        if x % k == 0 and y % k == 0: # common divisor
+            gcd = k
+            break  
+    return gcd
+
+print(gcd(12, 17))
+print(gcd(4, 6))
+```
 
 Register'lar Neden Var
 ---
