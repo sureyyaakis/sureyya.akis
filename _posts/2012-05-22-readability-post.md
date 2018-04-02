@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GCD and LCM Euclid’s Algorithm"
-date: 4/2/2018
+date: 2/4/2018
 excerpt: "Mips ve assembly kodları giriş."
 tags: [sample post, readability, test]
 ---
@@ -10,6 +10,11 @@ tags: [sample post, readability, test]
 When somebody ask what is gcd(36, 60) OR lcm(4, 6)  and you want to answer but you don’t know keep reading to this article.
 **WHAT IS GCD**  
 The Greatest Common Divisor is moreover known as the greatest common factor (gcf), highest common factor (hcf), greatest common measure (gcm), or highest common divisor, I chose to say GCD.  GCD is the largest number that divides the given numbers. The easy way to find GCD is to factorize both numbers and multiple common factors.
+
+<figure>
+	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
+	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+</figure>
 
 ```python
 def gcd(x, y):
@@ -34,32 +39,6 @@ Register'lar Neden Var
 
 Hangi Register Ne işe Yarar
 ---
-
-|  Register |  Sayısı |  Açıklama |
-|:---|:---:|---:|
-| $zero     | 0     | İçerisinde 0 sayısı vardır.  |
-|---
-| $at       | 1     | Assembler tarafından kullanılır.  |
-|---
-| $v0-$v1  | 2-3   | Metodların return değişkenleri için. |
-|---
-| $a0-$a3  | 4-7   | Metodlara gidecek parametreler için. |
-|---
-| $t0-$t7  | 8-15  | Geçici değişkenler  |
-|---
-| $s0-$s7  | 16-23 | Kayıt registerları |
-|---
-| $t8-$t9  | 24-25 | Biraaz daha geçici değişken  |
-|---
-| $k0-$k1  | 26-27 | İşletim sistemi tarafından kullanılır. |
-|---
-| $gp      | 28    | Global Pointer  |
-|---
-| $sp      | 29    | Stack Pointer |
-|---
-| $fp      | 30    | Frame Pointer  |
-|===
-| $ra      | 31    | Return Adress |
 
 
 Örnek Bir Assembly Kodu
