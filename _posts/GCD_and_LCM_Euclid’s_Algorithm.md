@@ -14,7 +14,7 @@ The Greatest Common Divisor is moreover known as the greatest common factor (gcf
 
 ![GCD](/assets/img/GCD.jpg)
 
-There is a example for python 3.6
+Time Complexity: O(Log min(a, b)) There is a example for python 3.6 
 
 ```python
 def gcd(x, y):
@@ -33,13 +33,14 @@ print(gcd(12, 17))
 print(gcd(4, 6))
 ```
 
-Register'lar Neden Var
----
-İşlemci birim zamanda sadece bir işlem yapabilir. Örneğin 3 sayıyı toplamasını istediğimizde önce ilk ikisini toplayacak, sonra ara sonucu tekrar ram'e yazacak. Sonra bu ara sonuç ile 3. sayıyı tekrar çağırıp onlarıda toplayacak. Sonra tekrar Ram'e kadar gidi yazacak. Fakat ara sonucu işlemcinin içerisinde tutabilseydik işlemleri daha hızlı gerçekleştirebilirdik. Her işlemden sonra verileri ram'e götürüp yazmak zorunda kalmazdık. Böyle diyerek işlemcinin içerisine registerları eklemişler.
+What is LCM?
+--- 
+the least common multiple, lowest common multiple, or smallest common multiple of two integers a and b, usually denoted by LCM, is the smallest positive integer that is divisible by both a and b.
 
-Hangi Register Ne işe Yarar
+?
 ---
 
+![LCM](/assets/img/LCM.jpg)
 
 Örnek Bir Assembly Kodu
 ---
