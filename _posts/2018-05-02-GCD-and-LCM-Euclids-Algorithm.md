@@ -9,12 +9,11 @@ tags: [sample post, readability, test]
 ===
 ![GCF-LCM-list-method](/assets/img/GCF-LCM-list-method.png)
 
-When somebody ask what is gcd(36, 60) OR lcm(4, 6)  and you want to answer but you don’t know, keep reading to this post.
+When somebody ask what is gcd(36, 60) OR lcm(4, 6) and you want to answer but you don’t know, keep reading to this post.
 
-**WHAT IS GCD** 
+**What is GCD** 
 
-The Greatest Common Divisor is moreover known as the greatest common factor (gcf), highest common factor (hcf), greatest common measure (gcm), or highest common divisor, I chose to say GCD.  GCD is the largest number that divides the given numbers. The easy way to find GCD is to factorize both numbers and multiple common factors.
-
+The Greatest Common Divisor is moreover known as the greatest common factor (gcf), highest common factor (hcf), greatest common measure (gcm), or highest common divisor, I chose to say GCD. GCD is the largest number that divides the given numbers. The easy way to find GCD is to factorize both numbers and multiple common factors.
 
 ![GCD](/assets/img/GCD.jpg)
 
@@ -73,8 +72,6 @@ Multiply each factor the greatest number of times it occurs in any of the number
 > We check our work by verifying that 63, can be divided evenly by 3, 9, and 21.
 
 First divide all the numbers by the smallest prime that can divide any of them. The smallest prime that divides 24 or 60 is 2. Stop when the numbers cannot divide. The LCM is 2 × 2 × 3 × 2 × 5 = 120
-
-
 
 ![LCM](/assets/img/LCM.jpg)
 
