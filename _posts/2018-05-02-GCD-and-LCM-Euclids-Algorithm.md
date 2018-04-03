@@ -54,6 +54,8 @@ We check our work by verifying that 63, can be divided evenly by 3, 9, and 21.
 
 ![LCM](/assets/img/LCM.jpg)
 
+Here is the example of python 3.6
+
 ```python
 def lcm(x, y):  
   if x > y:
