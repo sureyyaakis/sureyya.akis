@@ -37,20 +37,20 @@ print(gcd(12, 17))
 print(gcd(4, 6))
 ```
 
-What is LCM?
---- 
+**What is LCM?**
+
 The least common multiple (LCM) of two numbers is the smallest number (not zero) that is a multiple of both.
 Also you can list the prime factors of each one. For example 
----
-3: 3
-9: 3 x 3
-21: 3 x 7
----
-Multiply each factor the greatest number of times it occurs in any of the numbers. 
-9 has two 3's, and 21 has one 7, so we multiply 3 two times, and 7 once. This gives us 63, the smallest number that can be divideed evenly by 3, 9, and 21.
- We check our work by verifying that 63, can be divided evenly by 3, 9, and 21.
 
----
+..* 3: 3
+..* 9: 3 x 3
+..* 21: 3 x 7
+
+Multiply each factor the greatest number of times it occurs in any of the numbers. 9 has two 3's, and 21 has one 7, so we multiply 3 two times, and 7 once. This gives us 63, the smallest number that can be divideed evenly by 3, 9, and 21.
+
+We check our work by verifying that 63, can be divided evenly by 3, 9, and 21.
+
+
 
 ![LCM](/assets/img/LCM.jpg)
 
