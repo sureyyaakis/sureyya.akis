@@ -8,7 +8,7 @@ tags: [sample post, readability, test]
 **GCD and LCM Euclid’s Algorithm**
 ===
 ![GCF-LCM-list-method](/assets/img/GCF-LCM-list-method.png)
-===
+
 When somebody ask what is gcd(36, 60) OR lcm(4, 6)  and you want to answer but you don’t know keep reading to this article.
 
 **WHAT IS GCD** 
@@ -40,8 +40,14 @@ print(gcd(4, 6))
 What is LCM?
 --- 
 The least common multiple (LCM) of two numbers is the smallest number (not zero) that is a multiple of both.
+Also you can list the prime factors of each one. For example 
+3: 3
+9: 3 x 3
+21: 3 x 7
+Multiply each factor the greatest number of times it occurs in any of the numbers. 
+9 has two 3's, and 21 has one 7, so we multiply 3 two times, and 7 once. This gives us 63, the smallest number that can be divideed evenly by 3, 9, and 21.
+ We check our work by verifying that 63, can be divided evenly by 3, 9, and 21.
 
-?
 ---
 
 ![LCM](/assets/img/LCM.jpg)
