@@ -14,7 +14,7 @@ The Greatest Common Divisor is moreover known as the greatest common factor (gcf
 
 ![GCD](/assets/img/GCD.jpg)
 
-Time Complexity: O(Log min(a, b)) There is a example for python 3.6 
+Time Complexity: O(Log min(x, y)) There is a example for python 3.6 
 
 ```python
 def gcd(x, y):
@@ -35,7 +35,7 @@ print(gcd(4, 6))
 
 What is LCM?
 --- 
-the least common multiple, lowest common multiple, or smallest common multiple of two integers a and b, usually denoted by LCM, is the smallest positive integer that is divisible by both a and b.
+The least common multiple (LCM) of two numbers is the smallest number (not zero) that is a multiple of both.
 
 ?
 ---
