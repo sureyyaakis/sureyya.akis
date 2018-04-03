@@ -43,7 +43,7 @@ The least common multiple (LCM) of two numbers is the smallest number (not zero)
 Also, you can list the prime factors of each one. For example,
 
 <br /> 3: 3
-<br /> 3 x 3
+<br /> 9: 3 x 3
 <br /> 21: 3 x 7
 
 Multiply each factor the greatest number of times it occurs in any of the numbers. 9 has two 3's, and 21 has one 7, so we multiply 3 two times, and 7 once. This gives us 63, the smallest number that can be divideed evenly by 3, 9, and 21.
