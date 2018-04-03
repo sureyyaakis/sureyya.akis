@@ -18,7 +18,7 @@ The Greatest Common Divisor is moreover known as the greatest common factor (gcf
 
 ![GCD](/assets/img/GCD.jpg)
 
-Time Complexity: O(Log min(x, y)) There is a example for python 3.6 
+> Time Complexity: O(Log min(x, y)) There is a example for python 3.6 
 
 ```python
 def gcd(x, y):
@@ -54,7 +54,7 @@ We check our work by verifying that 63, can be divided evenly by 3, 9, and 21.
 
 ![LCM](/assets/img/LCM.jpg)
 
-Here is the example of python 3.6
+> Here is the example of python 3.6
 
 ```python
 def lcm(x, y):  
