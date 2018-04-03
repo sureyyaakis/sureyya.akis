@@ -9,7 +9,7 @@ tags: [sample post, readability, test]
 ===
 ![GCF-LCM-list-method](/assets/img/GCF-LCM-list-method.png)
 
-When somebody ask what is gcd(36, 60) OR lcm(4, 6)  and you want to answer but you don’t know keep reading to this article.
+When somebody ask what is gcd(36, 60) OR lcm(4, 6)  and you want to answer but you don’t know, keep reading to this post.
 
 **WHAT IS GCD** 
 
