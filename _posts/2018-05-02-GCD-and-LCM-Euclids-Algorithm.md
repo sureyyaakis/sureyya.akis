@@ -18,9 +18,31 @@ The Greatest Common Divisor is moreover known as the greatest common factor (gcf
 
 ![GCD](/assets/img/GCD.jpg)
 
-> Time Complexity: O(Log min(x, y)) There is a example for python 3.6 
+**Euclidean Algorithm**
+
+The Euclidean Algorithm use of by rapidly reducing the problem into easier and easier problems. 
+
+> This algorithm finds GCD by performing repeated division beginning from the two numbers we want to find the GCD of until we get a remainder of 0. 
+
+For example, 24 and 60, below are the steps to find GCD using Euclid's algorithm.
+
++ Divide the larger number by the small one. In this case we divide 60 by 24 to get a quotient of 2 and remainder of 12.
++ Next we divide the smaller number (i.e. 24) by the remainder from the last division (i.e. 12). So 24 divide by 12, we get a quotient of 2 and remainder of 0.
++ Since we already get a remainder of zero, the last number that we used to divide is the GCD, i.e 12.
+
+Let's look at another example, find GCD of 40 and 64.
+
+64 ÷ 40 = 1 with a remainder of 24
+40 ÷ 24 = 1 with a remainder of 16
+24 ÷ 16 = 1 with a remainder of 8
+16 ÷ 8 = 2 with a remainder of 0.
+We stop here since we've already got a remainder of 0. The last number we used to divide is 8 so the GCD of 40 and 64 is 8
+
+> There is a example for python 3.6 
 
 ```python
+#Time Complexity: O(Log min(x, y))
+
 def gcd(x, y):
     gcd = 1
     
@@ -48,7 +70,9 @@ Also, you can list the prime factors of each one. For example,
 
 Multiply each factor the greatest number of times it occurs in any of the numbers. 9 has two 3's, and 21 has one 7, so we multiply 3 two times, and 7 once. This gives us 63, the smallest number that can be divideed evenly by 3, 9, and 21.
 
-We check our work by verifying that 63, can be divided evenly by 3, 9, and 21.
+> We check our work by verifying that 63, can be divided evenly by 3, 9, and 21.
+
+First divide all the numbers by the smallest prime that can divide any of them. The smallest prime that divides 24 or 60 is 2. Stop when the numbers cannot divide. The LCM is 2 × 2 × 3 × 2 × 5 = 120
 
 
 
