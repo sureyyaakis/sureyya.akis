@@ -8,7 +8,7 @@ tags: [sample post, readability, test]
 **GCD and LCM Euclid’s Algorithm**
 ===
 <figure>
-	<a href="https://1.bp.blogspot.com/-h-prblk_jS4/V42nOJiYdVI/AAAAAAAAGp4/6UslrxeQ-tA020ksRbz0UQSiCMOpywWlwCLcB/s1600/Euclids%2Balgorihtm%2Bto%2Bfind%2BGCD.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
+	<a href="https://1.bp.blogspot.com/-h-prblk_jS4/V42nOJiYdVI/AAAAAAAAGp4/6UslrxeQ-tA020ksRbz0UQSiCMOpywWlwCLcB/s1600/Euclids%2Balgorihtm%2Bto%2Bfind%2BGCD.jpg"><img src="https://1.bp.blogspot.com/-h-prblk_jS4/V42nOJiYdVI/AAAAAAAAGp4/6UslrxeQ-tA020ksRbz0UQSiCMOpywWlwCLcB/s1600/Euclids%2Balgorihtm%2Bto%2Bfind%2BGCD.jpg"></a>
 </figure>
 
 ![GCF-LCM-list-method](/assets/img/GCF-LCM-list-method.png)
