@@ -2,14 +2,13 @@
 layout: post
 title: "GCD and LCM Euclid’s Algorithm"
 date: 2/4/2018
-excerpt: "Mips ve assembly kodları giriş."
+excerpt: "GCD and LCM Euclid’s Algorithm"
 tags: [sample post, readability, test]
 ---
 **GCD and LCM Euclid’s Algorithm**
 ===
 <figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
-	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+	<a href="https://1.bp.blogspot.com/-h-prblk_jS4/V42nOJiYdVI/AAAAAAAAGp4/6UslrxeQ-tA020ksRbz0UQSiCMOpywWlwCLcB/s1600/Euclids%2Balgorihtm%2Bto%2Bfind%2BGCD.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
 </figure>
 
 ![GCF-LCM-list-method](/assets/img/GCF-LCM-list-method.png)
