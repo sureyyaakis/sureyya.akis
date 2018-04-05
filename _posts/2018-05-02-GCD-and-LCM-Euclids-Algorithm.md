@@ -40,20 +40,20 @@ We stop here since we've already got a remainder of 0. The last number we used t
 ```python
 #Time Complexity: O(Log min(x, y))
 
-def gcd(x, y):
-    gcd = 1
-    
-    if x % y == 0:
-        return y
-    
-    for k in range(int(y / 2), 0, -1): 
-        if x % k == 0 and y % k == 0: # common divisor
-            gcd = k
-            break  
-    return gcd
+# With subtract 
 
-print(gcd(12, 17))
-print(gcd(4, 6))
+def gcd(a,b):
+  
+  while(a != b):
+    if (a>b):
+      a = a-b
+    else:
+      b = b-a
+  return a
+  
+print(gcd(252, 105))
+
+#The output will be 21
 ```
 
 **What is LCM?**
