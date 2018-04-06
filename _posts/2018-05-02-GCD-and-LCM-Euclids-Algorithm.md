@@ -77,7 +77,7 @@ For example;
 
 Multiply each factor the greatest number of times it occurs in any of the numbers. 9 has two 3's, and 21 has one 7, so we multiply 3 two times, and 7 once. This gives us 63, the smallest number that can be divideed evenly by 3, 9, and 21.
 
-> We check our work by verifying that 63, can be divided evenly by 3, 9, and 21.
+We check our work by verifying that 63, can be divided evenly by 3, 9, and 21.
 
 > Here is the example of python 3.6
 
