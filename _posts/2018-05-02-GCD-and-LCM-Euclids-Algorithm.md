@@ -32,7 +32,8 @@ tags: [sample post, readability, test]
 -	Step 3: Replace m with n and with r (i.e. m = n, n = r  gcd(n,r)). Go to Step 1
 
 ![GCF-LCM-list-method](/assets/img/GCF-LCM-list-method.png)
-img[alt=GCF-LCM-list-method] { width: 200px; }
+
+<img src="GCF-LCM-list-method.png" alt="GCF-LCM-list-method" style="width: 200px;"/>
 
 **Euclidean Algorithm**
 
