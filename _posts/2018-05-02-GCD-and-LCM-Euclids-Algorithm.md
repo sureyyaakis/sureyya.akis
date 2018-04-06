@@ -16,7 +16,7 @@ tags: [sample post, readability, test]
 +	42 = 2 x 3 x 7
 +	The gcd(360, 42) =  6
 
-**Modulo operation** 
+**Modulo Operation** 
 
 +	Given two positive numbers, a (the dividend) and b (the divisor), a modulo b (abbreviated as a mod b) is the remainder of Euclidean division of a by b.
 +	Ex: “5 mod 2” evaluate t o1 because 5 divided by 2 leaves a quotient of 2 and a remainder of 1, while “9 mod 3” would evaluate to 0 because the division of 9 by 3 has a quotient of 3 and leaves a remainder of 0; there is nothing to subtract from 9 after multiplying 3 times 3.
@@ -31,10 +31,8 @@ tags: [sample post, readability, test]
 -	Step 2: Divide m by n and assign the value of the remainder to r (i.e. r= m %(mod) n).
 -	Step 3: Replace m with n and with r (i.e. m = n, n = r  gcd(n,r)). Go to Step 1
 
-
 ![GCF-LCM-list-method](/assets/img/GCF-LCM-list-method.png)
-
-![GCD](/assets/img/GCD.jpg)
+img[alt=GCF-LCM-list-method] { width: 200px; }
 
 **Euclidean Algorithm**
 
