@@ -31,9 +31,8 @@ tags: [sample post, readability, test]
 -	Step 2: Divide m by n and assign the value of the remainder to r (i.e. r= m %(mod) n).
 -	Step 3: Replace m with n and with r (i.e. m = n, n = r  gcd(n,r)). Go to Step 1
 
-![GCF-LCM-list-method](/assets/img/GCF-LCM-list-method.png =100x20)
+![GCF-LCM-list-method](/assets/img/GCF-LCM-list-method.png =250x)
 
-<img src="GCF-LCM-list-method.png" alt="GCF-LCM-list-method" style="width: 200px;"/>
 
 **Euclidean Algorithm**
 
