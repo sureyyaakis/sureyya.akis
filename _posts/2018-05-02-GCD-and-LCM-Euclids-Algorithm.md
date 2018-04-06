@@ -20,7 +20,9 @@ tags: [sample post, readability, test]
 
 +	Given two positive numbers, a (the dividend) and b (the divisor), a modulo b (abbreviated as a mod b) is the remainder of Euclidean division of a by b.
 +	Ex: “5 mod 2” evaluate t o1 because 5 divided by 2 leaves a quotient of 2 and a remainder of 1, while “9 mod 3” would evaluate to 0 because the division of 9 by 3 has a quotient of 3 and leaves a remainder of 0; there is nothing to subtract from 9 after multiplying 3 times 3.
-Euclid’s Algorithm for Finding GCD
+
+**Euclid’s Algorithm for Finding GCD**
+
 +	Idea: Given to integers n and m 
 -	If n != 0, gcd(m, n) = gcd(n, m mod n);
 -	If n = 0, gcd(m,n)= m
