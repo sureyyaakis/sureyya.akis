@@ -5,7 +5,7 @@ date: 2/4/2018
 excerpt: "GCD and LCM Euclid’s Algorithm"
 tags: [sample post, readability, test]
 ---
-##GCD and LCM Euclid’s Algorithm
+## GCD and LCM Euclid’s Algorithm
 ===
 **What is GCD** 
 
