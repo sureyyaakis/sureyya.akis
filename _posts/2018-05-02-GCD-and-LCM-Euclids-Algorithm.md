@@ -83,7 +83,7 @@ We check our work by verifying that 63, can be divided evenly by 3, 9, and 21.
 
 ```python
 def lcm(a, b):  
-  return abs(a*b)/rec(m,n)
+  return (a*b)/rec(m,n)
   
 print(lcm(3,7))
 ```
