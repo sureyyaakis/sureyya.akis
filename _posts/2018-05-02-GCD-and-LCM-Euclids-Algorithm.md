@@ -17,7 +17,7 @@ tags: [sample post, readability, test]
 +	The gcd(360, 42) =  6
 
 <figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
+	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img 
 </figure>
 
 >![gcd-lcm](/assets/img/gcd-lcm.png)
