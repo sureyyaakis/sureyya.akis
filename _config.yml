@@ -68,7 +68,7 @@ gems:
   - jekyll-paginate
 
 jekyll-mentions:
-    base_url: https://sureyyaakis.github.io/sureyya.akis/
+    base_url: https://github.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
