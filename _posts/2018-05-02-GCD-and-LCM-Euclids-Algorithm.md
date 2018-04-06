@@ -16,9 +16,9 @@ tags: [sample post, readability, test]
 +	42 = 2 x 3 x 7
 +	The gcd(360, 42) =  6
 
-<figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img 
-</figure>
+
+<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img 
+
 
 >![gcd-lcm](/assets/img/gcd-lcm.png)
 
