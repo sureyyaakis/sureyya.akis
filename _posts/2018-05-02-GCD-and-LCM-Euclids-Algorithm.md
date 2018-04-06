@@ -16,7 +16,7 @@ tags: [sample post, readability, test]
 +	42 = 2 x 3 x 7
 +	The gcd(360, 42) =  6
 
->![GCF-LCM-list-method](/assets/img/GCF-LCM-list-method.png)
+>![gcd-lcm](/assets/img/gcd-lcm.png)
 
 **Modulo Operation** 
 
