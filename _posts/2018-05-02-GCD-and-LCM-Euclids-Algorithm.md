@@ -5,7 +5,7 @@ date: 2/4/2018
 excerpt: "GCD and LCM Euclid’s Algorithm"
 tags: [sample post, readability, test]
 ---
-#GCD and LCM Euclid’s Algorithm
+**GCD and LCM Euclid’s Algorithm**
 ===
 **What is GCD** 
 
@@ -69,4 +69,19 @@ print(gcd(360, 42))
 Another often sought after property is the least common multiple lcm(m,n) between two numbers m and n. The least common multiple is (the product of the elements in) the union of the sets of prime factors for both numbers. The union of two sets is obtained by writing down the element from both sets and removing those from the intersection of the sets, since those elements have been counted twice. The intersection was the greatest common divisor, thus we have the formula;
 
  ![lcm_](/assets/img/lcm_.gif)
+ 
+For example;
+<br /> 3: 3
+<br /> 9: 3 x 3
+<br /> 21: 3 x 7
+
+Multiply each factor the greatest number of times it occurs in any of the numbers. 9 has two 3's, and 21 has one 7, so we multiply 3 two times, and 7 once. This gives us 63, the smallest number that can be divideed evenly by 3, 9, and 21.
+
+> We check our work by verifying that 63, can be divided evenly by 3, 9, and 21.
+
+![LCM](/assets/img/LCM.jpg)
+
+> Here is the example of python 3.6
+
+
 
