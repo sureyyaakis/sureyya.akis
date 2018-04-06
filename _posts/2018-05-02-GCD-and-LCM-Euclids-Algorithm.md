@@ -83,5 +83,12 @@ Multiply each factor the greatest number of times it occurs in any of the number
 
 > Here is the example of python 3.6
 
+```python
+def lcm(a, b):  
+  return abs(a*b)/rec(m,n)
+  
+print(lcm(3,7))
+```
+
 
 
