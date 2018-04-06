@@ -79,8 +79,6 @@ Multiply each factor the greatest number of times it occurs in any of the number
 
 > We check our work by verifying that 63, can be divided evenly by 3, 9, and 21.
 
-![LCM](/assets/img/LCM.jpg)
-
 > Here is the example of python 3.6
 
 ```python
