@@ -59,11 +59,7 @@ We stop here since we've already got a remainder of 0. The last number we used t
 > There is a example for python 3.6 
 
 ```python
-#Time Complexity: O(Log min(x, y))
-
-# With subtract 
-
-def gcd(a,b):
+def gcd(a,b): # With subtract 
   
   while(a != b):
     if (a>b):
@@ -72,9 +68,15 @@ def gcd(a,b):
       b = b-a
   return a
   
-print(gcd(252, 105))
+def nwd(g,d): # recursive func
+  while(d!= 0):
+    r = g%d
+    g=d
+    d=r
+  return g
 
-#The output will be 21
+print(nwd(360, 42))
+print(gcd(360, 42))
 ```
 
 **What is LCM?**
