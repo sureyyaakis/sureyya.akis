@@ -16,8 +16,11 @@ tags: [sample post, readability, test]
 +	42 = 2 x 3 x 7
 +	The gcd(360, 42) =  6
 
+<figure>
+  
 >![gcd-lcm](/assets/img/gcd-lcm.png)
 
+</figure>
 **Modulo Operation** 
 
 +	Given two positive numbers, a (the dividend) and b (the divisor), a modulo b (abbreviated as a mod b) is the remainder of Euclidean division of a by b.
