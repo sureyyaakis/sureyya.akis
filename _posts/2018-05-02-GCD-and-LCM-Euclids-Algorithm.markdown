@@ -69,7 +69,7 @@ print(gcd(360, 42))
 
 Another often sought after property is the least common multiple lcm(m,n) between two numbers m and n. The least common multiple is (the product of the elements in) the union of the sets of prime factors for both numbers. The union of two sets is obtained by writing down the element from both sets and removing those from the intersection of the sets, since those elements have been counted twice. The intersection was the greatest common divisor, thus we have the formula;
 
- ![lcm_](/assets/img/lcm_.gif)
+ ![lcm_](../assets/img/lcm_.gif)
  
 For example;
 <br /> 3: 3
