@@ -82,11 +82,13 @@ We check our work by verifying that 63, can be divided evenly by 3, 9, and 21.
 
 > Here is the example of python 3.6
 
-```python
+```
+python
 def lcm(a, b):  
   return (a*b)/rec(m,n)
   
 print(lcm(3,7))
+
 ```
 
 
